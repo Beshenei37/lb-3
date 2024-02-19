@@ -16,5 +16,10 @@ namespace laba_3
         {
             MessageBox.Show("Выполнено в дабле");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Лишним не будет");
+        }
     }
 }
