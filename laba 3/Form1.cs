@@ -1,3 +1,5 @@
+using System.Windows.Forms;
+
 namespace laba_3
 {
     public partial class Form1 : Form
@@ -19,7 +21,7 @@ namespace laba_3
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Лишним не будет");
+            MessageBox.Show("Выполнено в дабле");
         }
     }
 }

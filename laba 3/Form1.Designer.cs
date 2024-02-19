@@ -55,11 +55,11 @@
             // 
             // button3
             // 
-            button3.Location = new Point(116, 12);
+            button3.Location = new Point(94, 36);
             button3.Name = "button3";
-            button3.Size = new Size(189, 79);
+            button3.Size = new Size(172, 69);
             button3.TabIndex = 2;
-            button3.Text = "Вывод";
+            button3.Text = "button3";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
